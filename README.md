@@ -99,3 +99,5 @@ Bayesian directs the attention of the clinician to patients at high risk. Clinic
 - https://www.bayesianhealth.com/
 - https://www.kff.org/racial-equity-and-health-policy/issue-brief/racial-disparities-in-maternal-and-infant-health-current-status-and-efforts-to-address-them/
 - https://www.forbes.com/companies/bayesian-health/?list=ai50&sh=4ed7125113ac
+
+Contributors - Gi'Anna Cheairs
